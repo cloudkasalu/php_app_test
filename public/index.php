@@ -2,7 +2,7 @@
 
 // phpinfo();
 
-echo "Hello Out Directory";
+echo "Hello Public";
 
 // include_once __DIR__ . '/./classes/DatabaseTable.php';
 
